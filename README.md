@@ -7,7 +7,7 @@ A modern, responsive e-commerce product page built with React. Features include 
 ![CSS3](https://img.shields.io/badge/CSS3-Responsive-orange)
 
 ## 🌐 Live Demo
-👉 [View Live Project](YOUR_NETLIFY_LINK_HERE)
+👉 [View Live Project](https://prathiba-ecommerce.netlify.app/)
 
 ## ✨ Features
 
