@@ -26,19 +26,11 @@ A modern, responsive e-commerce product page built with React. Features include 
 - **React Hooks** - useState for state management
 - **Netlify** - Deployment platform
 
-## 📸 Screenshots
-
-### Product Display
-![Products](https://via.placeholder.com/800x400/667eea/ffffff?text=Products+Grid)
-
-### Shopping Cart
-![Cart](https://via.placeholder.com/800x400/764ba2/ffffff?text=Shopping+Cart)
-
 ## 🚀 Installation & Setup
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ecommerce-app.git
+git clone https://github.com/Prathiba-Mii/ecommerce-app.git
 ```
 
 2. Navigate to project directory
